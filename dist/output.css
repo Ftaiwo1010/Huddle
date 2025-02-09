@@ -640,7 +640,7 @@ video {
 }
 
 .max-w-max-6{
-  max-width: 22rem;
+  max-width: 23rem;
 }
 
 .cursor-pointer{
@@ -799,11 +799,6 @@ video {
 .text-2xl{
   font-size: 1.5rem;
   line-height: 2rem;
-}
-
-.text-base{
-  font-size: 1rem;
-  line-height: 1.5rem;
 }
 
 .text-lg{
