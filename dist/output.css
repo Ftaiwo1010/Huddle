@@ -635,12 +635,16 @@ video {
   max-width: 20rem;
 }
 
+.max-w-max-4{
+  max-width: 29rem;
+}
+
 .max-w-max-5{
   max-width: 15.5rem;
 }
 
 .max-w-max-6{
-  max-width: 23rem;
+  max-width: 17.8rem;
 }
 
 .cursor-pointer{
