@@ -1,0 +1,23 @@
+{
+  "name": "huddle",
+  "version": "1.0.0",
+  "description": "A frontend mentor challenge for improving my tailwindcss styling design skill.",
+  "main": "index.js",
+  "scripts": {
+    "huddle": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ftaiwo1010/Huddle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ftaiwo1010/Huddle/issues"
+  },
+  "homepage": "https://github.com/Ftaiwo1010/Huddle#readme",
+  "dependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
